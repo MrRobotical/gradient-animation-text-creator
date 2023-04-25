@@ -9,7 +9,7 @@ body {
 
 .gradient {
     font-family: 'Alata', sans-serif;
-    font-size: 75px;
+    font-size: 125px;
     background: linear-gradient(75deg, #4ef0c7, #cf03fc, #03ccfc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
